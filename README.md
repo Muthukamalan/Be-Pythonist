@@ -13,15 +13,15 @@
 #  Content [Deep Dive Functional](https://www.udemy.com/course/python-3-deep-dive-part-1/)
 
 ## Basics Review
-- [ ] Type Hierarchy
-- [ ] Multi-Line Statement and String
-- [ ] Variable name
-- [ ] Conditionals
-- [ ] Functions
-- [ ] While
-- [ ] Break,Continue and Try
-- [ ] For loop
-- [ ] Classes
+- [X] Type Hierarchy
+- [X] Multi-Line Statement and String
+- [X] Variable name
+- [X] Conditionals
+- [X] Functions
+- [X] While
+- [X] Break,Continue and Try
+- [X] For loop
+- [X] Classes
 
 ## Variables and Memory
 - [ ] Variable and Memory Reference
