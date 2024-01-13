@@ -42,10 +42,11 @@ class Rectangle:
         return NotImplemented
 
 
+
+# Applying getter and setter property of class
 class Square:
     def __init__(self,side:int) -> None:
         self._a = side
-    
     
     # property
     @property
@@ -94,4 +95,5 @@ if __name__=='__main__':
         s1.a = -34
     except Exception as e:
         print(e.__repr__())
-    print(s1)
+    finally:
+        print(s1)
