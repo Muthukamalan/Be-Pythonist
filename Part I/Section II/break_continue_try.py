@@ -54,7 +54,5 @@ def div_with_continue_finally(numerator:int,denominator:int)->None:
 
 if __name__=='__main__':
     division(3,0)
-    print()
-
     div_with_break_finally(0,4)
     div_with_continue_finally(numerator=0,denominator=4)
