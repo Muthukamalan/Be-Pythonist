@@ -24,17 +24,17 @@
 - [X] Classes
 
 ## Variables and Memory
-- [ ] Variable and Memory Reference
-- [ ] Reference Counting
-- [ ] Garbage Collection
-- [ ] Dynamic Vs Static Typing
-- [ ] Variable Re-Assignment
-- [ ] Object Mutability
-- [ ] Function Argument and Mutability
-- [ ] Shared Reference and Mutability
-- [ ] Variable Equality
-- [ ] Everytging is an Object
-- [ ] Python Optimization: Interning, String Interning, Peephole
+- [X] Variable and Memory Reference
+- [X] Reference Counting
+- [X] Garbage Collection
+- [X] Dynamic Vs Static Typing
+- [X] Variable Re-Assignment
+- [X] Object Mutability
+- [X] Function Argument and Mutability
+- [X] Shared Reference and Mutability
+- [X] Variable Equality
+- [X] Everytging is an Object
+- [X] Python Optimization: Interning, String Interning, Peephole
 
 ## Numeric Types
 - [ ] Data Types
