@@ -45,13 +45,26 @@ def func9(*args, **kwargs):
     print('-'*50)
 
 
+# GOTCHA
+import time
+from datetime import datetime
+def logger(msg='',dt=datetime.today()):
+    print(msg, "and time=",dt)
+
 if __name__=='__main__':
-    func1(2,3)
-    func2(19,c=23)
-    func3(1,2,3,4,5,6,7,8,9,10)
-    func4(1,2,4,a=5,b=10)
-    func5(1,2,3,4,5,a='hello',b=100)
-    func6(1,2,4,5,6,7,8,c='hello',d='world!')
-    func7(1,23,4,2,3,c='hello world')
-    func8(1,2,10,20,30,c=3,x='hello',y='world')
-    func9(10,20,30,40,50,hello="hello",world="world!!")
+    # func1(2,3)
+    # func2(19,c=23)
+    # func3(1,2,3,4,5,6,7,8,9,10)
+    # func4(1,2,4,a=5,b=10)
+    # func5(1,2,3,4,5,a='hello',b=100)
+    # func6(1,2,4,5,6,7,8,c='hello',d='world!')
+    # func7(1,23,4,2,3,c='hello world')
+    # func8(1,2,10,20,30,c=3,x='hello',y='world')
+    # func9(10,20,30,40,50,hello="hello",world="world!!")
+
+
+    # Both returns same time, WHY?
+    logger('hello world')
+    time.sleep(10)
+    logger('bye world!')
+    # dt defines at compile time. not when call it
