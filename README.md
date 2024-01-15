@@ -37,33 +37,33 @@
 - [X] Python Optimization: Interning, String Interning, Peephole
 
 ## Numeric Types
-- [ ] Data Types
-- [ ] Operations
-- [ ] Constructors and Bases
-- [ ] Rational Numbers
-- [ ] Floats: Internal Representation
-- [ ] Equality Testing
-- [ ] Coercing to Integers
-- [ ] Rounding
-- [ ] Construtors and Contexts
-- [ ] Math Operation
-- [ ] Decimals
-- [ ] Complex Numbers
-- [ ] Booleans: Truth Values
-- [ ] Booleans: Precedence and Short-circuiting
-- [ ] Booleans: Boolean Operation
-- [ ] Comparison Operators
+- [X] Data Types
+- [X] Operations
+- [X] Constructors and Bases
+- [X] Rational Numbers
+- [X] Floats: Internal Representation
+- [X] Equality Testing
+- [X] Coercing to Integers
+- [X] Rounding
+- [X] Construtors and Contexts
+- [X] Math Operation
+- [X] Decimals
+- [X] Complex Numbers
+- [X] Booleans: Truth Values
+- [X] Booleans: Precedence and Short-circuiting
+- [X] Booleans: Boolean Operation
+- [X] Comparison Operators
 
 ## Function Parameters
-- [ ] Argument VS Parameter
-- [ ] Positional and Keyword Arguments
-- [ ] Unpacking Iterables
-- [ ] Extended Unpacking
-- [ ] *args
-- [ ] **kwargs
-- [ ] Putting it all Together
-- [ ] Appplication: A simple Function Timer
-- [ ] Parameter Default
+- [X] Argument VS Parameter
+- [X] Positional and Keyword Arguments
+- [X] Unpacking Iterables
+- [X] Extended Unpacking
+- [X] *args
+- [X] **kwargs
+- [X] Putting it all Together
+- [X] Appplication: A simple Function Timer
+- [X] Parameter Default
 
 ## First-Class Functions
 - [ ] Docstrings and Annotations
