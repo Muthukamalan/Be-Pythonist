@@ -48,7 +48,7 @@ def func9(*args, **kwargs):
 # GOTCHA
 import time
 from datetime import datetime
-def logger(msg='',dt=datetime.today()):
+def logger(msg='',dt=datetime.today()):   # evaluated at compile time, not when call it.
     print(msg, "and time=",dt)
 
 if __name__=='__main__':
