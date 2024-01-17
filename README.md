@@ -66,7 +66,7 @@
 - [X] Parameter Default
 
 ## First-Class Functions
-- [ ] Docstrings and Annotations
+- [X] Docstrings and Annotations
 - [ ] Lambda Expression
 - [ ] Lambda and Sorting
 - [ ] Randomize an Iterable using Sorted!! `Challenge`
