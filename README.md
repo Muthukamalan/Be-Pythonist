@@ -67,15 +67,15 @@
 
 ## First-Class Functions
 - [X] Docstrings and Annotations
-- [ ] Lambda Expression
-- [ ] Lambda and Sorting
-- [ ] Randomize an Iterable using Sorted!! `Challenge`
-- [ ] Function Introspection
-- [ ] Callables
-- [ ] Map, Filter, Zip and List Comprehensions
-- [ ] Reducing Functions
-- [ ] Partial Functions
-- [ ] The operatir Module
+- [X] Lambda Expression
+- [X] Lambda and Sorting
+- [X] Randomize an Iterable using Sorted!! `Challenge`
+- [X] Function Introspection
+- [X] Callables
+- [X] Map, Filter, Zip and List Comprehensions
+- [X] Reducing Functions
+- [X] Partial Functions
+- [X] The operatir Module
 
 ## Scopes, Closures and Decorators
 - [ ] Gloabl and Local Scopes
