@@ -10,6 +10,7 @@ def boo(a,b=10,c=20):
 # Keyword Arguments (named arguments)
 # can be optionally , this allo us to pass arguments without using positional assignment
 
+# default arguments, evaluated when function compile time itself.
 
 if __name__=='__main__':
     
