@@ -13,7 +13,6 @@ point:tuple =( x_coordinate,y_coordinate )  # Origin
 record:tuple = ('MUTHU',2018,1,19,2598.3, 2000.3,2328.3,2832.5)
 
 
-
 class Point:
     __slots__ = ['x','y']
     def __init__(self,x,y) -> None:
