@@ -1,0 +1,1 @@
+print('Hi I\'m mod.py file from folder app')

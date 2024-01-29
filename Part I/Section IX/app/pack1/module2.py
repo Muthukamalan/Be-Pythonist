@@ -1,0 +1,1 @@
+print('Hi I\'m module2.py file from folder pack1')
