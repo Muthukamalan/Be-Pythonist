@@ -78,39 +78,39 @@
 - [X] The operatir Module
 
 ## Scopes, Closures and Decorators
-- [ ] Gloabl and Local Scopes
-- [ ] Nonlocal Scopes
-- [ ] Closures
-- [ ] Closures - Applications 1
-- [ ] Closures - Applications 2
-- [ ] Decorators
-- [ ] Decorators Applications
+- [X] Gloabl and Local Scopes
+- [X] Nonlocal Scopes
+- [X] Closures
+- [X] Closures - Applications 1
+- [X] Closures - Applications 2
+- [X] Decorators
+- [X] Decorators Applications
     -   Timer
     -   Logger
     -   Stacked Decorators
     -   Memoization
-- [ ] Decorator Factories
-- [ ] Decorder Application: Dispatching
+- [X] Decorator Factories
+- [X] Decorder Application: Dispatching
 
 ## Tuples as Data Structures and Named Tuples
-- [ ] Tuple as Data Struture
-- [ ] Named Tuples
-- [ ] Named Tuples: Modifying and Extending
-- [ ] Named Tuples: DocString and Default Values
-- [ ] Applications: 
+- [X] Tuple as Data Struture
+- [X] Named Tuples
+- [X] Named Tuples: Modifying and Extending
+- [X] Named Tuples: DocString and Default Values
+- [X] Applications: 
     -   Returing Multipe Values
     -   Alternative to Dictionaries
 
 ## Modules, Packages and Namespaces
-- [ ] Modules
-- [ ] Imports and Importlib
-- [ ] Import Variants and Misconceptions
+- [X] Modules
+- [X] Imports and Importlib
+- [X] Import Variants and Misconceptions
 - [ ] Reloading Modules
-- [ ] Using __main__
-- [ ] Modules Recap
-- [ ] packages
-- [ ] Structing
-- [ ] Namespace Packges
+- [X] Using __main__
+- [X] Modules Recap
+- [X] packages
+- [X] Structing
+- [X] Namespace Packges
 - [ ] Importing from Zip Archives
 
 
