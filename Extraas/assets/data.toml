@@ -1,0 +1,14 @@
+Alice = 89
+Bob = 72
+Charles = 87
+[[fruits]]
+
+[fruits.fruit1]
+name = "apple"
+color = "red"
+[[fruits]]
+
+[fruits.fruit2]
+name = "watermelon"
+size = "big"
+color = "lightgreenish"
