@@ -1,0 +1,11 @@
+- objects in general 
+- what are classes
+- instantiating and initializing objects from a class
+- class and instance attributes
+    - data
+    - functions
+- function bindings and methods
+    - instance methods
+    - class methods
+    - static methods  # not bounded
+- properties
