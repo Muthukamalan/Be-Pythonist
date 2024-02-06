@@ -206,3 +206,7 @@
 - [ ] Attribute Read Accessors
 - [ ] Attribute Write Accessors
 - [ ] Accessors
+
+
+
+# Content [Pydantic](https://www.udemy.com/course/pydantic/)
