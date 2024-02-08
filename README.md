@@ -210,3 +210,82 @@
 
 
 # Content [Pydantic](https://www.udemy.com/course/pydantic/)
+## Basics
+- [ ] Creating a Pydantic Model
+- [ ] Deserialization
+- [ ] Serialization
+- [ ] Type coercion
+- [ ] Required vs optional Fields
+- [ ] Nullable Fields
+- [ ] Combining Nullable and Optional
+- [ ] Inspecting Fields
+- [ ] JSON Schema Generation
+- [ ] Project
+
+## Model configuration
+- [ ] Handling Extra Fields
+- [ ] Strict vs Lax Type coercion
+- [ ] Validating Default Values
+- [ ] Validating Assingments
+- [ ] Mutability
+- [ ] Coercing Numbers to Strings
+- [ ] Standarizing Strings
+- [ ] Handling Python Enums
+- [ ] Project
+
+## Field Aliasing, Serialization and Deserialization
+- [ ] Field Aliases and Default Values
+- [ ] Alias Generator Functions
+- [ ] Deserializing by Field Name or Alias
+- [ ] Serialization Aliases
+- [ ] Custom Serializers
+- [ ] Project
+
+## Specialized Pydantic Types
+- [ ] PositiveInt
+- [ ] Constrained Lists
+- [ ] UUID
+- [ ] Date Related Types
+- [ ] Network Types
+- [ ] Project
+
+## Additional Field Features
+- [ ] Numerical Constraints
+- [ ] String Constraints
+- [ ] Default Factories
+- [ ] Additional Field Configurations
+- [ ] Project
+
+## Annotated Types
+- [ ] Pydantic and Annotated Types
+- [ ] Annotated Types and Type Variables
+- [ ] String Constraints
+- [ ] Project
+
+## Custom Validators
+- [ ] After Validators
+- [ ] Before Validators
+- [ ] Combining Before and After Validators
+- [ ] Custom Validators using Annotated Types
+- [ ] Dependent Field Validations
+- [ ] Project
+
+## Properties and Computed Fields
+- [ ] Properties
+- [ ] Computed Fields
+- [ ] Project
+
+## Custom Serializers using Annotated Types
+- [ ] Custim Serializers with Annotated Types
+- [ ] Project
+
+## Complex Models
+- [ ] Model Composition
+- [ ] Model Inheritance
+- [ ] Project
+
+## Pydantic Applications
+- [ ] Consuming REST API
+- [ ] Ingesting a CSV File
+- [ ] Validating Function Arguments
+- [ ] Model Code Generators
